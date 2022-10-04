@@ -1,0 +1,28 @@
+.countercontainer{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    position: relative;
+    top: 300px;
+    width: 400px;
+    background-color: antiquewhite;
+    border-radius: 2px;
+    margin: auto;
+    margin-top: 10px;
+}
+.buttoncontainer{
+    text-align: center;
+}
+span{
+
+    font-size:xx-large ;
+}
+.input{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.inputItems{
+    width: 25%;
+    margin: auto;
+}
